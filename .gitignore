@@ -1,0 +1,9 @@
+*.pyc
+*.d
+*.so
+*.log
+*.stdout
+*.stderr
+docker_stderror
+settings.json
+temp/*
